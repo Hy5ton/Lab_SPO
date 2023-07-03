@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\ПК\OneDrive\Desktop\Марков\СПО 6 семестр\3 лаба\thread-pool-master\thread-pool\Main.cpp(53,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ПК\OneDrive\Desktop\Марков\СПО 6 семестр\3 лаба\thread-pool-master\thread-pool\Main.cpp(127,21): warning C4018: <: несоответствие типов со знаком и без знака
+  ThreadPool.cpp
+C:\Users\ПК\OneDrive\Desktop\Марков\СПО 6 семестр\3 лаба\thread-pool-master\thread-pool\ThreadPool.cpp(72,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ПК\OneDrive\Desktop\Марков\СПО 6 семестр\3 лаба\thread-pool-master\thread-pool\ThreadPool.cpp(49,7): warning C4101: dequeued: неиспользованная локальная переменная
+  ThreadWorker.cpp
+  Создание кода...
+  thread-pool.vcxproj -> C:\Users\ПК\OneDrive\Desktop\Марков\СПО 6 семестр\3 лаба\thread-pool-master\Debug\thread-pool.exe
